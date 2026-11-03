@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-renal-fractional-excretion-sodium-fena-skill",
+  "version": "1.0.0",
+  "description": "Calculates Fractional Excretion of Sodium (FeNa), Fractional Excretion of Urea (FeUrea), and BUN/Creatinine ratio to assess renal tubular integrity and volume status.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "nephrology",
+    "hydration",
+    "fena",
+    "feurea",
+    "electrolytes",
+    "kidney",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
